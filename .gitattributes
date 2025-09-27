@@ -1,0 +1,15 @@
+web/css/* linguist-vendored
+web/js/* linguist-vendored
+web/webfonts/* linguist-vendored
+adminkit-main/src/* linguist-vendored
+adminkit-main/node_modules/* linguist-vendored
+adminkit-main/statis/css/* linguist-vendored
+adminkit-main/statis/fonticon/* linguist-vendored
+adminkit-main/statis/fonts/* linguist-vendored
+adminkit-main/statis/js/* linguist-vendored
+
+
+
+
+
+
