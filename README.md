@@ -51,7 +51,7 @@ aria-website-admin-panel/
 ---
 
 ## 👨‍💻 Author
-- MuhammadYusuf Akramov  
+- [MuhammadYusuf Akramov](https://github.com/Yusufxon790)  
 - 📧 Email: akramovyusufxon590@gmail.com  
 
 ---
