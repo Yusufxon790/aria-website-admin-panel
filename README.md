@@ -49,8 +49,8 @@ To set up:
 aria-website-admin-panel/  
 │── web/           → Main PHP application (frontend + backend)  
 │── adminkit-main/ → Admin panel template  
-│── schema.sql     → Database schema (tables only)
-│── sample_data.sql→ Database with example data  
+│── schema.sql     → Database schema (tables only)      
+│── sample_data.sql       → Database with example data  
 │── README.md      → Documentation  
 
 ---
