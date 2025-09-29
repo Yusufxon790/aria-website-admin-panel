@@ -15,12 +15,16 @@ It serves dynamic web pages, manages data directly, and does not rely on externa
 ---
 
 ## 🗄️ Database
-Database schema and initial data are stored in `schema.sql`.  
+Database schema and initial/sample data are provided:  
+
+- `schema.sql` → creates tables and structure.  
+- `sample_data.sql` → inserts example data into the database.  
 
 To set up:  
 1. Open phpMyAdmin (or MySQL CLI).  
 2. Create a new database `aria`.  
-3. Import the `schema.sql` file from `database` folder.  
+3. Import `schema.sql` (creates tables).  
+4. (Optional) Import `sample_data.sql` (loads ready-to-use data).  
 
 ---
 
@@ -28,7 +32,7 @@ To set up:
 1. Clone the repository:  
    git clone https://github.com/Yusufxon790/aria-website-admin-panel.git  
 
-2. Import `schema.sql` into your MySQL server.  
+2. Import `schema.sql`(and optionally `sample_data.sql`) into your MySQL server.  
 
 3. Deploy the PHP files on a PHP-supported server (e.g., XAMPP, WAMP, or LAMP).  
 
@@ -45,7 +49,8 @@ To set up:
 aria-website-admin-panel/  
 │── web/           → Main PHP application (frontend + backend)  
 │── adminkit-main/ → Admin panel template  
-│── schema.sql     → Database schema and sample data  
+│── schema.sql     → Database schema (tables only)
+│── sample_data.sql→ Database with example data  
 │── README.md      → Documentation  
 
 ---
